@@ -74,47 +74,47 @@ Apply knowledge of the Software Development Life Cycle phases and build an app f
 ## Rodel's User Stories
 
 1.As an athlete, I want protein rich ingredients so that I can prevent having to intake my daily protein through a drink. 
-a. The RT5000 can track nutritional value. 
-b. The RT5000 will suggest the number of grams of protein based off the customer's diet/goals in less than 10 seconds. 
+- Functional: The RT5000 can track nutritional value. 
+- NonFunctional: The RT5000 will suggest the number of grams of protein based off the customer's diet/goals in less than 10 seconds. 
 
 2.As a customer, I want a food allergy list so that I can avoid an allergic reaction while eating the food. 
-a. The RT5000 prevents food cross contamination in between meals preparations.  
-b. The RT5000 will offer at least 3 minimum meal options within 5 seconds based off food allergies. 
+- Functional: The RT5000 prevents food cross contamination in between meals preparations.  
+- NonFunctional: The RT5000 will offer at least 3 minimum meal options within 5 seconds based off food allergies. 
 
 3.As a new customer, I want a list of the most popular menu items so that I am aware of your company’s signature taste. 
-a. The RT5000 records most commonly used ingredients. 
-b. The RT5000 app will update and offer the top 10 most used ingredients from all customers using the RT5000 app every 30 seconds. 
+- Functional: The RT5000 records most commonly used ingredients. 
+- NonFunctional: The RT5000 app will update and offer the top 10 most used ingredients from all customers using the RT5000 app every 30 seconds. 
 
 4.As a customer with disabilities, I want the RT5000 app to have accessibility options so that I can easily navigate through the app. 
-a. The RT5000 app provides a user-friendly interface.  
-b. The RT5000 robot should load at least 5 accessibility options within 3 seconds before using the app to prevent any delays. 
+- Functional: The RT5000 app provides a user-friendly interface.  
+- NonFunctional: The RT5000 robot should load at least 5 accessibility options within 3 seconds before using the app to prevent any delays. 
 
 5.As a customer, I want a checkout list so that I can review or adjust any of my meals before production. 
-a. The RT5000 app is able to customize meals. 
-b. The RT5000 app should load and update the customer’s checkout list within 3 seconds before reviewing. 
+- Functional: The RT5000 app is able to customize meals. 
+- NonFunctional: The RT5000 app should load and update the customer’s checkout list within 3 seconds before reviewing. 
 
 6.As a customer, I want the RT5000 app to be accessible via phone/web browser so that my food can be prepared without being in the proximity of the robot. 
-a. The RT5000 app is user friendly through phone or web browser and can connect to their own RT5000 robot. 
-b. The RT5000 robot responds to online requests within 5 seconds of placing an order.  
+- Functional: The RT5000 app is user friendly through phone or web browser and can connect to their own RT5000 robot. 
+- NonFunctional: The RT5000 robot responds to online requests within 5 seconds of placing an order.  
 
 7. As a customer, I want the RT5000 robot to prepare food in compostable materials so that I can reduce the use of plastic waste in landfills. 
-a. The RT5000 robot carries compostable plates and utensils. 
-b. The RT5000 can sort trash within 30 seconds of receiving finished food items. 
+- Functional: The RT5000 robot carries compostable plates and utensils. 
+- NonFunctional: The RT5000 can sort trash within 30 seconds of receiving finished food items. 
 
-8. As a customer, I want the RT5000 to self-charge while idle so that I never have to worry about plugging in the charger at the end of the day.  
-a. The RT5000 robot monitors the battery percentage before dying. 
-b. The RT5000 self-charges after reaching 10% battery life within 1 minute. 
+8. As a customer, I want the RT5000 to self-charge while idle so that I never have to worry about plugging in the charger at the end of the day.
+- Functional:The RT5000 robot monitors the battery percentage before dying. 
+- NonFunctional: The RT5000 self-charges after reaching 10% battery life within 1 minute. 
 
 9.As a customer, I want the RT5000 to monitor fresh ingredients so that the RT5000 will discard any welting or expired ingredients to the trash 
-a. The RT5000 knows signs of expired food. 
-b. The RT5000 monitors food three times a day and throws it away by the end of the day. 
+- Functional: The RT5000 knows signs of expired food. 
+- NonFunctional: The RT5000 monitors food three times a day and throws it away by the end of the day. 
 
 10.As a customer, I want the ability to plan and schedule out my meals so that the RT5000 can make my food for breakfast, lunch, and dinner ahead of time. 
-a. The RT5000 app can hold scheduled meals. 
-b. The RT5000 app can load up to 100 days of scheduled planned meals within 30 seconds of usage. 
+- Functional: The RT5000 app can hold scheduled meals. 
+- NonFunctional: The RT5000 app can load up to 100 days of scheduled planned meals within 30 seconds of usage. 
 
-![Rodel's User Stories (1)](Rodel’s User Stories(1).png) 
+![Rodel's User Stories 1](Rodels_User_Stories_1.png) 
 
-![Rodel’s User Stories (2)](Rodel’s User Stories(2).png) 
+![Rodel’s User Stories 2](Rodels_User_Stories_2.png) 
 
 ## Chicken Soup User Stories:

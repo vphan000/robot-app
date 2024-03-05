@@ -206,3 +206,28 @@ Apply knowledge of the Software Development Life Cycle phases and build an app f
 ![Rodel's User Stories 1](Rodels_User_Stories_1.png) 
 
 ![Rodel’s User Stories 2](Rodels_User_Stories_2.png) 
+
+## Top 10 List of requirements in priority order
+
+1. The app should follow food health standards and safety regulations. 
+
+2. The app should adjust to dietary and allergic reaction needs. 
+
+3. The app has a user-friendly interface. 
+
+4. The app has clear instructions. 
+
+5. The app should optimize performance to ensure smooth operations and reduce loading times. 
+
+6. The app should prioritize user privacy. 
+
+7. The app should be compatible with multiple devices. 
+
+8. The app has customization options. 
+
+9. The app should have user accessibility for disabilities. 
+
+10. The app should have a feedback mechanism to gather reviews or user's input.
+
+Explanation: The application should be created with the user in mind, with a simple interface, clear instructions, customization possibilities, and accessibility features for those with disabilities. It should also emphasize user privacy and follow food safety guidelines. To do this, user-centric considerations should be incorporated throughout the SDLC, impacting all stages from planning and design to development, testing, and deployment. This guarantees that the finished product fits user wants and expectations while adhering to safety standards. 
+

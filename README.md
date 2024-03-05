@@ -67,70 +67,94 @@ Apply knowledge of the Software Development Life Cycle phases and build an app f
 
 9.Can the RT5000 robot cut food products with a knife?  
 
-10.Is the RT5000 coded to ensure proper Department Of Health Food Safety regulations while serving food? 
+10.Is the RT5000 coded to ensure proper Department Of Health Food Safety regulations while serving food?
 
-# Tuna Sandwich User Stories
+## Tuna Sandwich User Stories
+
+1. As a busy parent, I want to schedule the RT 5000 to prepare chicken soup for dinner so that I can spend more time with my family in the evenings. 
+- Functional: The app should allow users to set specific times for the RT 5000 to start and complete cooking tasks. 
+- Non-Functional: The app should ensure seamless synchronization with users’ calendars and time zones to accurately complete cooking tasks. 
+
+2. As a health-conscious individual, I want the option to customize the ingredients and seasons levels in my chicken soup so that I can control my dietary intake. 
+- Functional: The app should provide options for users to select ingredient quantities and adjust seasoning levels according to their preference. 
+- Non-Functional: The app should utilize an intuitive UI and interactive ingredient selection tool to guide users through customizing ingredient quantities and seasoning levels effectively. 
+
+3. As a novice cook, I want clear step-by-step instructions on the app for preparing chicken soup with the RT 5000 so that I can confidently use the robot. 
+- Functional: The app should include detailed, easy-to-follow cooking instructions and ingredient measurements for chicken soup recipes. 
+- Non-Functional: The app should incorporate multimedia elements such as videos and interactive tutorials seamlessly to ensure smooth interaction and navigation for users. 
+
+4. As a tech-savvy user, I want the RT 5000 app to integrate with smart home devices so that I can control cooking tasks through voice commands or automation. 
+- Functional: The app should support integration with voice assistants like Alexa, Siri, or Google assistant for hands-free control of the RT 5000. 
+- Non-Functional: The app should utilize reliable API integrations and adhere to protocol standards to ensure seamless compatibility with a wide range of smart home devices. 
+
+5. As a household with dietary restrictions, I want the app to suggest alternative ingredients for chicken soup recipes based on allergy or dietary preferences so that I can accommodate everyone’s needs. 
+- Functional: The app should provide options for substituting ingredients in chicken soup recipes to accommodate common food allergies or dietary restrictions. 
+- Non-Functional: The app should utilize machine learning algorithms and user preference data to generate personalized ingredient substitution recommendations tailored to individual dietary needs and preferences. 
+
+6. As a working professional, I want the RT 5000 app to offer pre-programmed chicken soup recipes with minimal setup required so that I can enjoy homemade meals without extensive preparation time. 
+- Functional: The app should include a variety of pre-configured chicken soup recipes that users can select and start with minimal customization. 
+- Non-Functional: The app should implement efficient recipe loading to ensure fast and responsive browsing of pre-programmed chicken soup recipes, even on slower internet connections or older devices. 
+
+7. As a budget-conscious consumer, I want the app to provide cost-effective ingredient options for chicken soup recipes so that I can save money on grocery expenses. 
+- Functional: The app should suggest affordable ingredient alternatives or provide options for purchasing ingredients in bulk for cost savings. 
+- Non-Functional: The app should leverage real-time pricing data and promotional offers from partner retailers to dynamically recommend cost-effective ingredient options. 
+
+8. As a user with limited mobility, I want the RT 5000 app to offer accessible controls and options for operating the app so that I can easily manage cooking tasks from anywhere in the house. 
+- Functional: The app should support accessibility features such as voice commands, large font sizes, and screen reader compatibility for users with limited mobility. 
+- Non-Functional: The app should undergo rigorous accessibility testing and compliance with industry standards to ensure seamless navigation and operation for users with diverse mobility needs. 
+
+9. As an environmentally conscious consumer, I want the app to suggest sustainable ingredient options for chicken soup recipes so that I can reduce my environmental footprint. 
+- Functional: The app should recommend locally sourced and eco-friendly ingredients for chicken soup recipes whenever possible. 
+- Non-Functional: The app should incorporate sustainability metrics and environmental impact assessments into ingredient sourcing algorithms to prioritize recommendations that align with users’ environmental values. 
+
+10. Multitasking individual, I want the RT 5000 app to send notifications and alerts when each specific cooking tasks are complete so that I can efficiently manage my time and tasks. 
+- Functional: The app should send push notifications or alerts to users’ mobile devices when cooking tasks, such as preparing chicken soup, are finished. 
+- Non-Functional: The push notification services, and backend infrastructure should be reliable to guarantee the prom pt delivery of task completion alerts across diverse devices and platforms. 
+
+![Viet's User Stories](vphan_SS.png)
+![Viet's User Stories 2](vphan_SS_2.png)
+![Viet's User Stories 3](vphan_SS_3.png)
 
 ## Tsehay's User Stories
 
 1. As RT500 user, I want to be able to choose the bread type for my tuna fish sandwich to suit my dietary needs and preferences. 
-
 - Functional: The app should have a drop-down menu to let customers select bread types. 
-
 - Non-Functional: The app should display at least 5 bread options (wheat, gluten free, white) to help users in making decisions based on their dietary requirements. 
 
 2. As a customer, I want the robot to accurately measure the ingredients for my tuna sandwich so that it can have consistency in flavor. 
-
 - Functional: The app should have an option for customers to specify the amount of each ingredient.  
-
 - Non-Functional: The robot’s ingredient measuring accuracy should be at least ±3%, in order to maintain consistency in flavor.  
 
 3. As an RT5000 user, I want the robot to give clear instructions throughout the sandwich making process so that I can have an enjoyable experience. 
-
 - Functional: The app should be able to display detailed instruction guidance. 
-
 - Non-Functional: The user interface should be user friendly, so that users can follow instructions easily. 
 
 4. As an RT5000 user, I want an option to customize my tuna sandwich toppings so that I can add different sauces according to my preferences. 
-
 - Functional: The app should be able to provide a selection of toppings. 
-
 - Non-Functional: The customization feature should be easy to navigate so that users can easily select what they want. 
 
 5. As an RT5000 robot user, I want the robot to cleanly and effectively assemble the sandwich, so that it will be appealing and easy to eat.  
-
 - Functional: The robot should have accurate assembly process. 
-
 - Non-Functional: The ingredients should be evenly distributed to have a clean appearance. 
 
 6. As a customer, I want the option to adjust the amount of ingredients used in the tuna sandwich, providing flexibility based on size or dietary restrictions. 
-
 - Functional: The app should be able to allow customers to manually input the desired amount of each ingredient for their tuna fish sandwich. 
-
 - Non-Functional: The user interface of the application must be intuitive and friendly, ensuring that users can easily adjust ingredient amounts without confusion and frustration. 
 
 7. As a customer, I want the robot to follow hygienic practices when preparing food so that my tuna sandwich is safe to eat.  
-
 - Functional: The robot's software algorithms should include built-in protocols for hand washing and sanitizing before and after handling food ingredients. 
-
 - Non-Functional: The robot should ensure compliance with hygiene protocols and health regulations. 
 
 8. As a customer, I want the robot to notify me when the tuna sandwich is ready to serve so that I can enjoy it fresh and hot. 
-
 - Functional: The app should be able to send a push notification to the user's smartphone or other connected device when the tuna sandwich is ready. 
-
-- nNon-Functional: The message must be sent within 30 seconds after the robot checks that the sandwich is ready to ensure timely communication. 
+- Non-Functional: The message must be sent within 30 seconds after the robot checks that the sandwich is ready to ensure timely communication. 
 
 9. As an RT5000 user, I want to be able to save my favorite tuna sandwich recipe for future reference, so that it will simplify the process of subsequent orders. 
-
 - Functional: The user interface of the application should have a "Save Recipe" button that allows users to save their desired tuna sandwich recipe. 
-
 - Non-Functional: The saving process should be smooth and requires minimal user input to increase efficiency. 
 
 10.  As an owner of the kitchen, I would like the robot to clean up the mess or waste created during sandwich making and maintain a clean kitchen environment. 
-
 - Functional: The robot shall be able to detect any mess generated during the sandwich-making process using sensors 
-
 - Non-Functional: The cleanup process should be quick and efficient to maintain a tidy kitchen environment without causing delays.
 
 ![Tsehay's User Stories 1](tsehay_1.png) 
@@ -184,6 +208,3 @@ Apply knowledge of the Software Development Life Cycle phases and build an app f
 ![Rodel's User Stories 1](Rodels_User_Stories_1.png) 
 
 ![Rodel’s User Stories 2](Rodels_User_Stories_2.png) 
-
-
-## Chicken Soup User Stories:

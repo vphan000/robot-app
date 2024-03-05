@@ -235,3 +235,5 @@ Explanation: The application should be created with the user in mind, with a sim
 [Viet's Order Wireframe](viet/order.md)
 
 [Tsehay's Wireframe Login](tsehay/login.md)
+
+[Rodel's Checkout Page Wireframe](rodel/checkout.md)

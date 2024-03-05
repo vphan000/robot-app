@@ -69,7 +69,7 @@ Apply knowledge of the Software Development Life Cycle phases and build an app f
 
 10.Is the RT5000 coded to ensure proper Department Of Health Food Safety regulations while serving food?
 
-## Tuna Sandwich User Stories
+## Viet's User Stories
 
 1. As a busy parent, I want to schedule the RT 5000 to prepare chicken soup for dinner so that I can spend more time with my family in the evenings. 
 - Functional: The app should allow users to set specific times for the RT 5000 to start and complete cooking tasks. 
@@ -109,11 +109,13 @@ Apply knowledge of the Software Development Life Cycle phases and build an app f
 
 10. Multitasking individual, I want the RT 5000 app to send notifications and alerts when each specific cooking tasks are complete so that I can efficiently manage my time and tasks. 
 - Functional: The app should send push notifications or alerts to users’ mobile devices when cooking tasks, such as preparing chicken soup, are finished. 
-- Non-Functional: The push notification services, and backend infrastructure should be reliable to guarantee the prom pt delivery of task completion alerts across diverse devices and platforms. 
+- Non-Functional: The push notification services, and backend infrastructure should be reliable to guarantee the prompt delivery of task completion alerts across diverse devices and platforms. 
 
 ![Viet's User Stories](vphan_SS.png)
 ![Viet's User Stories 2](vphan_SS_2.png)
 ![Viet's User Stories 3](vphan_SS_3.png)
+
+## Chicken Soup User Stories
 
 ## Tsehay's User Stories
 

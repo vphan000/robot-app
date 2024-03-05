@@ -24,8 +24,6 @@ Apply knowledge of the Software Development Life Cycle phases and build an app f
 
 10. Does the RT 5000 app offer different ingredient options for people with diet restrictions?
 
-# Interview Questions 
-
 ## Tsehay's Questions
 1. What are the key ingredients for a classic tuna fish sandwich?  
 
@@ -47,6 +45,28 @@ Apply knowledge of the Software Development Life Cycle phases and build an app f
 
 10. How should the robot present the meal, in a plate or wrap it on a use and throw paper? 
 
-11. Should the robot provide any visual or audio signal while making the sandwich and after finishing the process? 
+11. Should the robot provide any visual or audio signal while making the sandwich and after finishing the process?
+
+## Rodel's Interview Questions
+
+1.What meat proteins (beef, chicken, fish,boiled eggs, etc.) are available for the customers to add to their salad? 
+
+2.What leafy greens (romaine, spinach, kale, lettuce, etc.) are added to the chef salad? 
+
+3.Do the customers want the option of their salad being tossed with the dressing? 
+
+4.What gluten free options are available for the salad dressings? 
+
+5.Are there different types of salads available for specific food allergies (peanuts, celiac, nut allergies, etc.)? 
+
+6.What toppings (corn, sunflower seeds, chow Mein noodles, almonds, etc.) are available to add to your salad? 
+
+7.Are customers able to add fruit to their salad mix? 
+
+8.Are the leafy greens washed before serving? 
+
+9.Can the RT5000 robot cut food products with a knife?  
+
+10.Is the RT5000 coded to ensure proper Department Of Health Food Safety regulations while serving food? 
     
 # User Stories

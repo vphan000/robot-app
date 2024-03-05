@@ -69,7 +69,7 @@ Apply knowledge of the Software Development Life Cycle phases and build an app f
 
 10.Is the RT5000 coded to ensure proper Department Of Health Food Safety regulations while serving food?
 
-## Viet's User Stories
+## Viet's Chicken Soup User Stories
 
 1. As a busy parent, I want to schedule the RT 5000 to prepare chicken soup for dinner so that I can spend more time with my family in the evenings. 
 - Functional: The app should allow users to set specific times for the RT 5000 to start and complete cooking tasks. 
@@ -115,9 +115,7 @@ Apply knowledge of the Software Development Life Cycle phases and build an app f
 ![Viet's User Stories 2](vphan_SS_2.png)
 ![Viet's User Stories 3](vphan_SS_3.png)
 
-## Chicken Soup User Stories
-
-## Tsehay's User Stories
+## Tsehay's Tuna Sandwich User Stories
 
 1. As RT500 user, I want to be able to choose the bread type for my tuna fish sandwich to suit my dietary needs and preferences. 
 - Functional: The app should have a drop-down menu to let customers select bread types. 
@@ -162,10 +160,8 @@ Apply knowledge of the Software Development Life Cycle phases and build an app f
 ![Tsehay's User Stories 1](tsehay_1.png) 
 
 ![Tsehay’s User Stories 2](tsehay_2.png) 
-    
-# Chef's Salad User Stories
 
-## Rodel's User Stories
+## Rodel's Chef's Salad User Stories
 
 1. As an athlete, I want protein rich ingredients so that I can prevent having to intake my daily protein through a drink. 
 - Functional: The RT5000 can track nutritional value. 

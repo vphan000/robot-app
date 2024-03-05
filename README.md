@@ -70,3 +70,5 @@ Apply knowledge of the Software Development Life Cycle phases and build an app f
 10.Is the RT5000 coded to ensure proper Department Of Health Food Safety regulations while serving food? 
     
 # User Stories
+
+## Chicken Soup User Stories:

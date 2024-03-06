@@ -1,1 +1,1 @@
-![Rodel's Checkout Page Wireframe](Checkout_Page.jpeg)
+![Rodel's Checkout Page Wireframe](updated_checkout_page.jpeg)
